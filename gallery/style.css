@@ -1,0 +1,12 @@
+body {
+    background-image: url("/images/night\ desktop.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.navbar {
+    background: transparent;
+    backdrop-filter: blur(2px);
+}
